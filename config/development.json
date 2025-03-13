@@ -1,0 +1,9 @@
+{
+    "nombre": "Api Rest Express - Desarrollo",
+    "configDB": {
+        "host": "dev-db-server",
+        "port": 27017,
+        "db": "api_rest_express"
+    }
+    
+}

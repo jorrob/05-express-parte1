@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/jorrob/05-express-parte1#readme",
   "dependencies": {
+    "config": "^3.3.12",
+    "debug": "^4.4.0",
     "express": "^4.21.2",
     "joi": "^17.13.3"
   }
